@@ -1,3 +1,3 @@
 [submodule "dpatch"]
 	path = dpatch
-	url = git@github.com:dotku/dpatch.git
+	url = https://github.com/dotku/dpatch.git
