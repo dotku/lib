@@ -13,6 +13,6 @@ it might not be stable while updating is processing,
 so I suggest to download them to your local space.
 
 \* most packages are from bower, some packages might download 
-from the official website directly
-\* welcome to fork and pull request as you want, thank you!
+from the official website directly  
+\* welcome to fork and pull request as you want, thank you!  
 
